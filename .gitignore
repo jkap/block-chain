@@ -1,1 +1,4 @@
 node_modules
+.jkap-blockchainrc
+.DS_Store
+followers-*.json
