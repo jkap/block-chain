@@ -1,0 +1,9 @@
+{
+  "name": "block-chain",
+  "version": "1.0.0",
+  "description": "local blockchain for twitter",
+  "main": "index.js",
+  "repository": "git@github.com:jkap/block-chain.git",
+  "author": "jenn kaplan <me@jkap.io>",
+  "license": "MIT"
+}
